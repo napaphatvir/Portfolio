@@ -55,6 +55,8 @@
 **Language:** Swift\
 **Technologies:** Push Notifications, Core Location, Facebook SDK, Firebase Analytics, Google Analytics, Matomo Analytics
 
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/burger-king-thailand/id1440299482)
+
 <div>
   <img src="images/burgerKing/bgk_1.png" height="auto" width="20%">
   <img src="images/burgerKing/bgk_2.png" height="auto" width="20%">
@@ -63,15 +65,14 @@
   <img src="images/burgerKing/bgk_5.png" height="auto" width="20%">
 </div>
 
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/burger-king-thailand/id1440299482)
-
 # BHPetrol X-Fleet
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
-**Technologies:** Push Notifications, Firebase Analytics, Matomo Analytics\
+**Technologies:** Push Notifications, Firebase Analytics, Matomo Analytics
   
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/bhpetrol-x-fleet/id1565475551)  *This application only available on Malaysia*
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/bhpetrol-x-fleet/id1565475551)\
+*\*This application only available on Malaysia*
 
 <div>
   <img src="images/bhpetrolXFleet/bhp_x_1.png" height="auto" width="20%">
