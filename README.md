@@ -81,4 +81,4 @@
 
 ___
 
-See more my custom view with swift in [here](https://github.com/napaphatvir/customView)
+See more my custom ui components with Swift in [here](https://github.com/napaphatvir/customView)
