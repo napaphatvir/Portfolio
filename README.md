@@ -1,23 +1,31 @@
 ## MBK PLUS
-**Platform:** iOS
-
-**Architectural Pattern:** MVC
-
-**Language:** Swift
-
+**Platform:** iOS\
+**Architectural Pattern:** MVC\
+**Language:** Swift\
 **Technologies:** Push Notifications, Facebook SDK, Line SDK, Firebase Analytics, Matomo Analytics
+<div>
+  <img src="images/mbkPlus/mbk_plus_1.png" style="height: auto; width: 19%;">
+  <img src="images/mbkPlus/mbk_plus_2.png" style="height: auto; width: 19%;">
+  <img src="images/mbkPlus/mbk_plus_3.png" style="height: auto; width: 19%;">
+  <img src="images/mbkPlus/mbk_plus_4.png" style="height: auto; width: 19%;">
+  <img src="images/mbkPlus/mbk_plus_5.png" style="height: auto; width: 19%;">
+</div>
 
 [download app store](https://apps.apple.com/us/app/mbk-plus/id1244693671)
 
 ## Megabangna
-**Platform:** iOS
-
-**Architectural Pattern:** MVC
-
-**Language:** Swift
-
+**Platform:** iOS\
+**Architectural Pattern:** MVC\
+**Language:** Swift\
 **Technologies:** Push Notifications, Facebook SDK, Line SDK, Firebase Analytics, Matomo Analytics
-
+<div>
+  <img src="images/megabangna/mega_1.png" style="height: auto; width: 19%;">
+  <img src="images/megabangna/mega_2.png" style="height: auto; width: 19%;">
+  <img src="images/megabangna/mega_3.png" style="height: auto; width: 19%;">
+  <img src="images/megabangna/mega_4.png" style="height: auto; width: 19%;">
+  <img src="images/megabangna/mega_5.png" style="height: auto; width: 19%;">
+  <img src="images/megabangna/mega_6.png" style="height: auto; width: 19%;">
+</div>
 [download app store](https://apps.apple.com/us/app/megabangna/id1460645032)
 
 ## A+ Genius Baby
