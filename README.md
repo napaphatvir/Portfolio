@@ -1,8 +1,10 @@
-## MBK PLUS
+# MBK PLUS 
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
 **Technologies:** Push Notifications, Facebook SDK, Line SDK, Firebase Analytics, Matomo Analytics
+
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/mbk-plus/id1244693671)
 
 <div>
   <img src="images/mbkPlus/mbk_plus_1.png" height="auto" width="20%">
@@ -12,13 +14,13 @@
   <img src="images/mbkPlus/mbk_plus_5.png" height="auto" width="20%">
 </div>
 
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/mbk-plus/id1244693671)
-
-## Megabangna
+# Megabangna
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
 **Technologies:** Push Notifications, Facebook SDK, Line SDK, Firebase Analytics, Matomo Analytics
+
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/megabangna/id1460645032)
 
 <div>
   <img src="images/megabangna/mega_1.png" height="auto" width="20%">
@@ -29,13 +31,13 @@
   <img src="images/megabangna/mega_6.png" height="auto" width="20%">
 </div>
 
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/megabangna/id1460645032)
-
-## A+ Genius Baby
+# A+ Genius Baby
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
 **Technologies:** Push Notifications, Core Graphics, Firebase Analytics
+
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/a-genius-baby/id564123089)
 
 <div>
   <img src="images/meadJohnson/mj_1.png" height="auto" width="20%">
@@ -45,9 +47,9 @@
   <img src="images/meadJohnson/mj_5.png" height="auto" width="20%">
 </div>
 
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/a-genius-baby/id564123089)
 
-## Burger King Thailand
+
+# Burger King Thailand
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
@@ -63,11 +65,13 @@
 
 [<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/burger-king-thailand/id1440299482)
 
-## BHPetrol X-Fleet
+# BHPetrol X-Fleet
 **Platform:** iOS\
 **Architectural Pattern:** MVC\
 **Language:** Swift\
-**Technologies:** Push Notifications, Firebase Analytics, Matomo Analytics
+**Technologies:** Push Notifications, Firebase Analytics, Matomo Analytics\
+  
+[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/bhpetrol-x-fleet/id1565475551)  *This application only available on Malaysia*
 
 <div>
   <img src="images/bhpetrolXFleet/bhp_x_1.png" height="auto" width="20%">
@@ -76,8 +80,6 @@
   <img src="images/bhpetrolXFleet/bhp_x_4.png" height="auto" width="20%">
   <img src="images/bhpetrolXFleet/bhp_x_5.png" height="auto" width="20%">
 </div>
-
-[<img src="images/badge/appstore-badge.png" height="50px">](https://apps.apple.com/us/app/bhpetrol-x-fleet/id1565475551)
 
 ___
 
